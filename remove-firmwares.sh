@@ -10,3 +10,25 @@ read -n 1 -s
 
 # Remove all the bloatware
 sudo dnf remove -y \
+intel-gpu-firmware \
+iwl100-firmware \
+iwl1000-firmware \
+iwl105-firmware \
+iwl135-firmware \
+iwl2000-firmware \
+iwl2030-firmware \
+iwl3160-firmware \
+iwl3945-firmware \
+iwl4965-firmware \
+iwl5000-firmware \
+iwl5150-firmware \
+iwl6000-firmware \
+iwl6000g2a-firmware \
+iwl6000g2b-firmware \
+iwl6050-firmware \
+iwl7260-firmware \
+iwlax2xx-firmware \
+nvidia-gpu-firmware
+zd1211-firmware \
+libertas-usb8388-firmware \
+atmel-firmware
