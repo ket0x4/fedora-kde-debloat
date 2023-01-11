@@ -45,6 +45,8 @@ setroubleshoot-server \
 qt5-qdbusviewer \
 plymouth-* \
 fwupd \
+vim-minimal \
+vim-filesystem \
 
 # Reinstall NetworkManager-wifi
 sudo dnf install -y \

@@ -47,3 +47,5 @@ Its highly recommended to edit this script before running it. You may want to ke
 - `qt5-qdbusviewer`  Qt's dbus viewer
 - `plymouth-*`  Boot splash animation
 - `fwupd`  Firmware updater
+- `vim-data` Vim stuff
+- `vim-filesystem` Vim stuff (again)
