@@ -31,4 +31,11 @@ iwlax2xx-firmware \
 nvidia-gpu-firmware \
 zd1211-firmware \
 libertas-usb8388-firmware \
-atmel-firmware
+atmel-firmware \
+cirrus-audio-firmware \
+intel-audio-firmware \
+mt7xxx-firmware \
+atheros-firmware \
+nxpwireless-firmware \
+realtek-firmware \
+tiwilink-firmware
