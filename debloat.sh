@@ -12,7 +12,6 @@ read -n 1 -s
 # Remove all the bloatware
 sudo dnf remove -y \
 yelp \
-power-profiles-daemon \
 dnfdragora \
 system-config-language \
 im-chooser \
