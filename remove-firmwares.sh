@@ -27,7 +27,7 @@ iwl6000g2a-firmware \
 iwl6000g2b-firmware \
 iwl6050-firmware \
 iwl7260-firmware \
-iwlax2xx-firmware \
+#iwlax2xx-firmware \
 nvidia-gpu-firmware \
 zd1211-firmware \
 libertas-usb8388-firmware \

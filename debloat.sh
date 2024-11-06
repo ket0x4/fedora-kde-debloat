@@ -13,6 +13,9 @@ read -n 1 -s
 sudo dnf remove -y \
 yelp \
 dnfdragora \
+abrt \
+plasma-welcome \
+setroubleshoot \
 system-config-language \
 im-chooser \
 ibus-gtk3 \
@@ -23,27 +26,27 @@ khelpcenter \
 kgpg \
 kmag \
 kmousetool \
-kdeconnect \
+#kdeconnect \
 kmouth \
 kmail-* \
 akonadi-import-wizard \
 kaddressbook \
 korganizer \
 akregator \
-firewall-config \
-firewalld-* \
+#firewall-config \
+#firewalld-* \
 kcharselect \
 kinfocenter \
 kwalletmanager5 \
-plasma-discover \
+#plasma-discover \
 abrt-* \
 gnome-abrt \
 plasma-drkonqi \
 plasma-thunderbolt \
 setroubleshoot-server \
 qt5-qdbusviewer \
-plymouth-* \
-fwupd \
+#plymouth-* \
+#fwupd \
 vim-minimal \
 vim-filesystem \
 
