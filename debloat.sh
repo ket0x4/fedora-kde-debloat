@@ -26,32 +26,29 @@ khelpcenter \
 kgpg \
 kmag \
 kmousetool \
-#kdeconnect \
+kdeconnect \
 kmouth \
 kmail-* \
 akonadi-import-wizard \
 kaddressbook \
 korganizer \
 akregator \
-#firewall-config \
-#firewalld-* \
+firewall-config \
+firewalld-* \
 kcharselect \
 kinfocenter \
 kwalletmanager5 \
-#plasma-discover \
+plasma-discover \
 abrt-* \
 gnome-abrt \
 plasma-drkonqi \
 plasma-thunderbolt \
 setroubleshoot-server \
 qt5-qdbusviewer \
-#plymouth-* \
-#fwupd \
+plymouth-* \
+fwupd \
 vim-minimal \
 vim-filesystem \
-
-# Reinstall NetworkManager-wifi
-sudo dnf install -y \
-NetworkManager-wifi
+hyperv-daemons \
 
 echo "All the bloatware has been removed"
